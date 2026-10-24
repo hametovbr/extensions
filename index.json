@@ -11,20 +11,25 @@
         "name": "HenChan",
         "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
         "resources": {
-          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.102/tachiyomi-ru.henchan-v1.6.102.apk",
+          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.103/tachiyomi-ru.henchan-v1.6.103.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/hametovbr/extensions-source@main/src/ru/henchan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.102/tachiyomi-ru.henchan-v1.6.102.jar"
+          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.103/tachiyomi-ru.henchan-v1.6.103.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106102",
-        "versionName": "1.6.102",
+        "versionCode": "106103",
+        "versionName": "1.6.103",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "5504588601186153612",
             "name": "HenChan",
             "language": "ru",
-            "homeUrl": "https://xxl.hentaichan.live"
+            "homeUrl": "https://hentaichan.live",
+            "mirrorUrls": [
+              "https://hentaichan.live",
+              "https://xxl.hentaichan.live",
+              "https://x17.h-chan.me"
+            ]
           }
         ]
       }
