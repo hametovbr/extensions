@@ -11,13 +11,13 @@
         "name": "HenChan",
         "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
         "resources": {
-          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.100/tachiyomi-ru.henchan-v1.6.100.apk",
+          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.101/tachiyomi-ru.henchan-v1.6.101.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/hametovbr/extensions-source@main/src/ru/henchan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.100/tachiyomi-ru.henchan-v1.6.100.jar"
+          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.101/tachiyomi-ru.henchan-v1.6.101.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106100",
-        "versionName": "1.6.100",
+        "versionCode": "106101",
+        "versionName": "1.6.101",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
