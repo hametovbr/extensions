@@ -1,23 +1,25 @@
 # hametovbr/extensions
 
-Персональный репозиторий расширений (структура форка Keiyoushi) с собственными сборками.
+Персональный репозиторий расширений для Suwayomi / Mihon.
 
-## Suwayomi / Mihon
-
-URL репозитория:
+## URL репозитория
 
 ```
 https://raw.githubusercontent.com/hametovbr/extensions/repo/index.pb
 ```
 
+Старый формат (только `index.min.json`):
+
+```
+https://raw.githubusercontent.com/hametovbr/extensions/repo/index.min.json
+```
+
 ## Что внутри
 
-| Расширение | Версия | versionCode | Подпись |
+| Расширение | Версия | versionCode | Пакет |
 |---|---|---|---|
-| HenChan (`eu.kanade.tachiyomi.extension.ru.henchan`) | 1.6.99 | 106099 | сертификат hametovbr |
+| HenChan | 1.6.99 | 106099 | `eu.kanade.tachiyomi.extension.ru.henchan` |
 
 - Исходники: https://github.com/hametovbr/extensions-source
-- SHA-256 сертификата (signingKey): `0b3061c3845d7c8e8d6b4abcc79060e2b5ac307023bc4b1f30a9d9f454a79e68`
-- Артефакты: https://github.com/hametovbr/extensions/releases/tag/henchan-1.6.99
-
-Индексный формат — `index.pb` (protobuf, gzip) + `index.json`; `index.min.json` и `repo.json` оставлены как легаси-заглушки.
+- Отпечаток ключа подписи (signingKey): `0b3061c3845d7c8e8d6b4abcc79060e2b5ac307023bc4b1f30a9d9f454a79e68`
+- Сборка и публикация — GitHub Actions в репозитории исходников.
