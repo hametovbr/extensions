@@ -1,12 +1,12 @@
 {
   "eu.kanade.tachiyomi.extension.ru.henchan": {
     "apk": {
-      "name": "tachiyomi-ru.henchan-v1.6.104.apk",
-      "sha256": "5de7355398131ce0f1bc53cadec44c5019e40e62c100d68aa403e589b5085824"
+      "name": "tachiyomi-ru.henchan-v1.6.105.apk",
+      "sha256": "dd3145bff9747d044eb3243fa3b55e8e337355b25e6e88645379e056ea5835e6"
     },
     "jar": {
-      "name": "tachiyomi-ru.henchan-v1.6.104.jar",
-      "sha256": "5a4438b9967038d292e8ca0416ff5cf9f2185b511a72cd5b8bfaf10f40acb92c"
+      "name": "tachiyomi-ru.henchan-v1.6.105.jar",
+      "sha256": "21dfc4b43b0506d887dd18b3d44df73136cb318838997f642d094eafc4871ed9"
     }
   }
 }
