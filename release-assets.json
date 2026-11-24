@@ -11,12 +11,12 @@
   },
   "eu.kanade.tachiyomi.extension.ru.multimanga": {
     "apk": {
-      "name": "tachiyomi-ru.multimanga-v1.6.3.apk",
-      "sha256": "5f20eee087adb604e81ed9559e741152d51daf34c5d1a9cb70000e6fc751f0ff"
+      "name": "tachiyomi-ru.multimanga-v1.6.4.apk",
+      "sha256": "ca95f19fa3fe2f717b9b71b588fe1fbd4ac2b394d67f7a0e302fa6c9786206b1"
     },
     "jar": {
-      "name": "tachiyomi-ru.multimanga-v1.6.3.jar",
-      "sha256": "7b77d5dc1d0c78b76e850622acadd5bedda3bea7a3dcc34fc5897282fb715cf8"
+      "name": "tachiyomi-ru.multimanga-v1.6.4.jar",
+      "sha256": "2f6b10f89da5697fd1c681261d754cee3da856b6fafa0b6dc9d96c317b2ae452"
     }
   }
 }
