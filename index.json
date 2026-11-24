@@ -32,6 +32,38 @@
             ]
           }
         ]
+      },
+      {
+        "name": "MultiManga",
+        "packageName": "eu.kanade.tachiyomi.extension.ru.multimanga",
+        "resources": {
+          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.1/tachiyomi-ru.multimanga-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/hametovbr/extensions-source@main/src/ru/multimanga/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.1/tachiyomi-ru.multimanga-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "3420183351909474560",
+            "name": "MultiManga",
+            "language": "ru",
+            "homeUrl": "https://multi-manga.com",
+            "mirrorUrls": [
+              "https://multi-manga.com",
+              "https://w1.multi-manga.com",
+              "https://w2.multi-manga.com",
+              "https://w3.multi-manga.com",
+              "https://w4.multi-manga.com",
+              "https://w5.multi-manga.com",
+              "https://w6.multi-manga.com",
+              "https://ww1.multi-manga.com",
+              "https://ww.multi-manga.com"
+            ]
+          }
+        ]
       }
     ]
   }

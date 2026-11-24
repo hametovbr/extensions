@@ -8,5 +8,15 @@
       "name": "tachiyomi-ru.henchan-v1.6.106.jar",
       "sha256": "ec7fd229d07480a971e4ccd05a5dbe48166fb8d6e583baa50a1ec7d45e19458e"
     }
+  },
+  "eu.kanade.tachiyomi.extension.ru.multimanga": {
+    "apk": {
+      "name": "tachiyomi-ru.multimanga-v1.6.1.apk",
+      "sha256": "3038d49f94072d29756f5a14e967fdcfdfa1134faf643c289ca5d1407aa89654"
+    },
+    "jar": {
+      "name": "tachiyomi-ru.multimanga-v1.6.1.jar",
+      "sha256": "cd1432fc2da70cd279029b9edb6988af9462bf1a9e7ab16194e1ffee103a78ec"
+    }
   }
 }
