@@ -37,13 +37,13 @@
         "name": "MultiManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.multimanga",
         "resources": {
-          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.1/tachiyomi-ru.multimanga-v1.6.1.apk",
+          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.2/tachiyomi-ru.multimanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/hametovbr/extensions-source@main/src/ru/multimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.1/tachiyomi-ru.multimanga-v1.6.1.jar"
+          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.2/tachiyomi-ru.multimanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
