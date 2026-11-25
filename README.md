@@ -18,8 +18,8 @@ https://raw.githubusercontent.com/hametovbr/extensions/repo/index.min.json
 
 | Расширение | Версия | versionCode | Пакет |
 |---|---|---|---|
-| HenChan | 1.6.106 | 106106 | `eu.kanade.tachiyomi.extension.ru.henchan` |
-| MultiManga | 1.6.5 | 106005 | `eu.kanade.tachiyomi.extension.ru.multimanga` |
+| HenChan | 1.6.107 | 106107 | `eu.kanade.tachiyomi.extension.ru.henchan` |
+| MultiManga | 1.6.6 | 106006 | `eu.kanade.tachiyomi.extension.ru.multimanga` |
 
 - Исходники: https://github.com/hametovbr/extensions-source
 - Отпечаток ключа подписи (signingKey): `0b3061c3845d7c8e8d6b4abcc79060e2b5ac307023bc4b1f30a9d9f454a79e68`
