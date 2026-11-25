@@ -11,13 +11,13 @@
         "name": "HenChan",
         "packageName": "eu.kanade.tachiyomi.extension.ru.henchan",
         "resources": {
-          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.107/tachiyomi-ru.henchan-v1.6.107.apk",
+          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.108/tachiyomi-ru.henchan-v1.6.108.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/hametovbr/extensions-source@main/src/ru/henchan/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.107/tachiyomi-ru.henchan-v1.6.107.jar"
+          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/henchan-1.6.108/tachiyomi-ru.henchan-v1.6.108.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106107",
-        "versionName": "1.6.107",
+        "versionCode": "106108",
+        "versionName": "1.6.108",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -37,13 +37,13 @@
         "name": "MultiManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.multimanga",
         "resources": {
-          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.6/tachiyomi-ru.multimanga-v1.6.6.apk",
+          "apkUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.7/tachiyomi-ru.multimanga-v1.6.7.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/hametovbr/extensions-source@main/src/ru/multimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.6/tachiyomi-ru.multimanga-v1.6.6.jar"
+          "jarUrl": "https://github.com/hametovbr/extensions/releases/download/multimanga-1.6.7/tachiyomi-ru.multimanga-v1.6.7.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106006",
-        "versionName": "1.6.6",
+        "versionCode": "106007",
+        "versionName": "1.6.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

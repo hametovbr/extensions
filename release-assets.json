@@ -1,22 +1,22 @@
 {
   "eu.kanade.tachiyomi.extension.ru.henchan": {
     "apk": {
-      "name": "tachiyomi-ru.henchan-v1.6.107.apk",
-      "sha256": "18e2787839cc2757438f5a334b47f7ac83a9c8756fef93794d6f7a2e575c4468"
+      "name": "tachiyomi-ru.henchan-v1.6.108.apk",
+      "sha256": "deb556da3f9cfef4c70f24c277af391a4e8077cbfaf3cd3b698588b2e21708a2"
     },
     "jar": {
-      "name": "tachiyomi-ru.henchan-v1.6.107.jar",
-      "sha256": "99722ca7a9b7e2327744c92028c7ff2633ddf681b16f45e8feab77eb09090495"
+      "name": "tachiyomi-ru.henchan-v1.6.108.jar",
+      "sha256": "d12e511f2f41ea5b834dd47ca7dcc49473f28b2c0e48ad1a05f5644e4eef6207"
     }
   },
   "eu.kanade.tachiyomi.extension.ru.multimanga": {
     "apk": {
-      "name": "tachiyomi-ru.multimanga-v1.6.6.apk",
-      "sha256": "83d24c446e4b5c8a4f4948a0f759d58ea4d61db9249cae50e8beb35cc611f4dd"
+      "name": "tachiyomi-ru.multimanga-v1.6.7.apk",
+      "sha256": "ee0f5c5124e270ff5dba0445e63e7bbbc9135f8ff4b7bb20517c7a648184772b"
     },
     "jar": {
-      "name": "tachiyomi-ru.multimanga-v1.6.6.jar",
-      "sha256": "3a4a8247eda3a43c24f8b86ce685f6d018bbaaea1337ef85196219b994d19205"
+      "name": "tachiyomi-ru.multimanga-v1.6.7.jar",
+      "sha256": "39edccbd41679a16269051f46c317e9ff359c1d3f4be9ae6d7f4c4713d0a7969"
     }
   }
 }
